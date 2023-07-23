@@ -1,6 +1,7 @@
 # Marvelapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
+![marvel](https://github.com/TirthakBM/MarvelWeb/assets/97222016/367d2a5b-987d-41c2-ad9c-913cf238553f)
 
 ## Development server
 
